@@ -8,4 +8,13 @@
     "c6f85a2c942ef7a363632612a42c27be"
   ]
 }
-
+{
+  "licenses": [
+    {
+      "id": "c6f85a2c942ef7a363632612a42c27be",
+      "customer": "Ahmet",
+      "expire": "2027-01-01",
+      "status": "active"
+    }
+  ]
+}
